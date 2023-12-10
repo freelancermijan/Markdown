@@ -49,16 +49,6 @@ git add . &&  git commit -m "File Updated" && git push -u origin main
   z
   </blockquote></details>
 
-  <details>
-  <summary> dev </summary>
-  <blockquote>
-
-  p
-  q
-  r
-  </blockquote>
-  </details>
-
   </blockquote>
 
 </details>
