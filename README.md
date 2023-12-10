@@ -5,13 +5,13 @@ git add . &&  git commit -m "File Updated" && git push -u origin main
 # Nested Collabpsible list items
 
 <details>
-  <summary> root </summary>
+  <summary> wpscan </summary>
 
   <blockquote>
 
   <details>
 
-  <summary> bin </summary>
+  <summary> installation </summary>
   
   <blockquote>
 
