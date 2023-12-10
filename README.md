@@ -15,29 +15,8 @@ git add . &&  git commit -m "File Updated" && git push -u origin main
   
   <blockquote>
 
-  <details><summary> nest1 </summary>
-  <blockquote>
-
   ```sh
-  a
-  b
-  c
-  ```
-  
-  </blockquote>
-  </details>
-  
-  <details><summary> nest2 </summary><blockquote>
-
-  a
-  b
-  c
-  </blockquote></details>
-
-  ```sh
-  file1
-  file2
-  file3
+  sudo apt install build-essential libcurl4-openssl-dev libxml2 libxml2-dev libxslt1-dev ruby-dev -y && sudo apt install ruby-full -y && sudo gem install wpscan
   ```
 
   </blockquote></details>
