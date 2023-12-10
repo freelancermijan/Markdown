@@ -21,9 +21,10 @@ git add . &&  git commit -m "File Updated" && git push -u origin main
 
   <details><summary> Usage </summary><blockquote>
 
-  x
-  y
-  z
+  Vulnerable theme, plugin, users
+  ```
+  sudo wpscan --url "https://wordpress.org" --random-user-agent --enumerate vp,vt,u -t 5 -o wordpress.org.wpscan.txt
+  ```
   </blockquote></details>
 
   </blockquote>
