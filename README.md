@@ -2,8 +2,6 @@ git add . &&  git commit -m "File Updated" && git push -u origin main
 
 ## This Repo all about tools installation & commands
 
-# Nested Collabpsible list items
-
 <details>
   <summary> wpscan </summary>
 
